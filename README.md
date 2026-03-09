@@ -1,9 +1,17 @@
 ﻿MONTGOMERY PULSE
+ 
 A Trust-Aware Civic AI System for Epistemic Transparency
+
+
 Theme: Civic Access & Community Communication
+
+
 Team: Relational Intelligence
+
 Lead: Shams Hamid
+
 Hackathon: World Wide Vibes 2026
+
 Sponsor: Bright Data
 ________________
 A proof-of-concept civic AI system that answers only when evidence exists, signals uncertainty transparently, and logs unanswered questions as public knowledge gaps.
@@ -298,6 +306,7 @@ Trust is not our output. It is our method.
 
 
 ________________
+
 
 
 
