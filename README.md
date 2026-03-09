@@ -6,7 +6,7 @@ Lead: Shams Hamid
 Hackathon: World Wide Vibes 2026
 Sponsor: Bright Data
 ________________
-
+A proof-of-concept civic AI system that answers only when evidence exists, signals uncertainty transparently, and logs unanswered questions as public knowledge gaps.
 
 📌 Quick Links
 Resource
@@ -147,7 +147,9 @@ Every refusal includes this line:
 "I have written this down, and it will not be forgotten."
 This transforms absence from failure into witness.
 ________________
+---
 
+## 🎬 Demo Flow — Experiencing Trust
 
 🎬 7. Demo Flow — Experiencing Trust
 Three Real Queries from Montgomery Residents
@@ -186,7 +188,9 @@ ________________
 
 ![Gap Dashboard](Gap_Dashboard_Montgomery_Pulse.png)  
   
+---
 
+## ⚖️ Ethical Reflection — Who Benefits & Who Is Forgotten
 
 ⚖️ 8. Ethical Reflection — Who Benefits & Who Is Forgotten
 Who Benefits
@@ -278,6 +282,7 @@ Trust is not our output. It is our method.
 
 
 ________________
+
 
 
 
