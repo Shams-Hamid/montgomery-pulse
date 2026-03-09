@@ -170,18 +170,17 @@ Trust Level
 
 
 ________________
+### Interface Screens
 
 
 
+![High Confidence Mode](high-confidence-mode.png)
 
-  
+![Partial Confidence Mode](partial-confidence-mode.png)
 
-  
-![High Confidence Mode](High Confidence Mode.png)
+![Productive Refusal Interface](productive-refusal-interface.png)
 
-![Partial Confidence Mode](Partial Confidence Mode.png)
-
-![Productive Refusal Interface](Productive Refusal Interface.png)
+### System Diagnostics
 
 ![Code Snippet](Code_Snippet_Montgomery_Pulse.png)
 
@@ -279,5 +278,6 @@ Trust is not our output. It is our method.
 
 
 ________________
+
 
 
