@@ -13,14 +13,20 @@ Resource
 	Link
 	💻 GitHub Repo
 	You are here
+	________________
 	🎥 Demo Video
 	https://drive.google.com/file/d/1F9ZBZV6A8li-CkLwBZe23rmTF4Gi5VFA/view?usp=sharing
+	________________
 	📊 Gap Logging Dashboard
 	https://docs.google.com/spreadsheets/d/1mJtHbTTVStxTH0y37xTYCRnx_y9kEvgneYcwmvmGuDk/edit?usp=sharing
+	________________
 	📄 POC Document
 	https://drive.google.com/file/d/1EIaogowWgXFJnHD7RFx7q1zM4ucjCyEY/view?usp=sharing
+	________________
 	✔ Live prototype link (Gemini Gem)
 	https://gemini.google.com/gem/1969aG0lp1o_HYrVV4zS7rIHY5s5BPOsx?usp=sharing
+	________________
+	
 	🏛️ 1. Context: Montgomery & Motivation
 Montgomery Pulse is a trust-aware civic AI assistant designed to answer public questions using verifiable municipal data.
 Rather than maximizing helpfulness, the system prioritizes epistemic transparency:
@@ -282,6 +288,7 @@ Trust is not our output. It is our method.
 
 
 ________________
+
 
 
 
