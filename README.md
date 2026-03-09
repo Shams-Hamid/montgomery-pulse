@@ -1,5 +1,9 @@
 ﻿MONTGOMERY PULSE
- 
+
+![Status](https://img.shields.io/badge/status-prototype-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
+![Civic_AI](https://img.shields.io/badge/domain-civic%20AI-purple) 
+
 A Trust-Aware Civic AI System for Epistemic Transparency
 
 
@@ -10,6 +14,7 @@ Team: Relational Intelligence
 
 Lead: Shams Hamid
 
+
 Hackathon: World Wide Vibes 2026
 
 Data Source: City of Montgomery Open Data Portal  
@@ -17,7 +22,9 @@ Data Source: City of Montgomery Open Data Portal
 Challenge Partner: Alabama State University
 
 Sponsor: Bright Data
+
 ________________
+
 A proof-of-concept civic AI system that answers only when evidence exists, signals uncertainty transparently, and logs unanswered questions as public knowledge gaps.
 
 📌 Quick Links
@@ -310,6 +317,7 @@ Trust is not our output. It is our method.
 
 
 ________________
+
 
 
 
