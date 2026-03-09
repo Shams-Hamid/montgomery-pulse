@@ -44,8 +44,7 @@ Yet citizens still face fragmented data, siloed information, and no conversation
 
 
 
-
-[VISUAL 1: Montgomery Open Data Portal screenshot]
+![Montgomery Open Data Portal](prototype-screenshots/VISUAL1_Montgomery_Government_Portal.png)
   
 
 🧠 2. Problem Framing — The Epistemic Gap
@@ -84,7 +83,8 @@ Component
 
 
 
-[VISUAL 2 Trust Barometer graphic 🟢🟡🔴] 
+![Trust Barometer](prototype-screenshots/VISUAL2_Trust_Barometer_Montgomery_Pulse.png)
+ 
   
 
 🏗️ 4. System Architecture
@@ -109,7 +109,8 @@ Layer
 	Shows logged gaps, trust distribution
 	Key Constraint: Gemini enforces the "Analytic Vow"—calculating historical comparisons via Python execution while strictly refusing future speculation.
 Design Principle: Every response or refusal is traceable, explainable, and grounded.
-[VISUAL 3: Full architecture diagram]
+
+![Full Architecture Diagram](prototype-screenshots/VISUAL3_Architecture_Dialogue_Montgomery_Pulse.png)
   
 
 📊 5. Data Sources — Credible Civic Anchors
@@ -178,7 +179,6 @@ Trust Level
 ________________
 
 
-[VISUAL 4: Prototype screens showing all three trust levels] Prototype screens showing 🟢, 🟡,  🔴 responses & Code Snippet, Gap logging dashboard
 
 
   
@@ -278,6 +278,7 @@ ________________
 🕊️ Final Note
 This README, like the system it describes, is built on a simple truth:
 Trust is not our output. It is our method.
+
 
 
 
