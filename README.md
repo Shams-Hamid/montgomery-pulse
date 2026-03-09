@@ -187,9 +187,13 @@ ________________
   
   
 
-  ![Partial Confidence Mode](Partial Confidence Mode.png)  
-Screenshot: Example of Gemini calculating a High Confidence answer using Python execution (Code_Snippet_Montgomery_Pulse.png).  
-Screenshot: Gap logging dashboard showing unanswered queries (Gap_Dashboard_Montgomery_Pulse.png).  
+  ![Partial Confidence Mode](prototype-screenshots/Partial Confidence Mode.png)
+![High Confidence Mode](prototype-screenshots/High Confidence Mode.png)
+![Productive Refusal Interface](prototype-screenshots/Productive Refusal Interface.png)
+![Code Snippet](prototype-screenshots/Code_Snippet_Montgomery_Pulse.png)
+![Gap Dashboard](prototype-screenshots/Gap_Dashboard_Montgomery_Pulse.png)
+
+
 ⚖️ 8. Ethical Reflection — Who Benefits & Who Is Forgotten
 Who Benefits
 Stakeholder
