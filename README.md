@@ -40,11 +40,7 @@ Yet citizens still face fragmented data, siloed information, and no conversation
 
 
 
-
-
-
-
-![Montgomery Open Data Portal](prototype-screenshots/VISUAL1_Montgomery_Government_Portal.png)
+![Montgomery Open Data Portal](Montgomery_Government_Portal.png)
   
 
 🧠 2. Problem Framing — The Epistemic Gap
@@ -81,10 +77,7 @@ Component
 
 
 
-
-
-![Trust Barometer](prototype-screenshots/VISUAL2_Trust_Barometer_Montgomery_Pulse.png)
- 
+![Trust Barometer](Trust_Barometer_Montgomery_Pulse.png) 
   
 
 🏗️ 4. System Architecture
@@ -110,7 +103,7 @@ Layer
 	Key Constraint: Gemini enforces the "Analytic Vow"—calculating historical comparisons via Python execution while strictly refusing future speculation.
 Design Principle: Every response or refusal is traceable, explainable, and grounded.
 
-![Full Architecture Diagram](prototype-screenshots/VISUAL3_Architecture_Dialogue_Montgomery_Pulse.png)
+![Full Architecture Diagram](Architecture_Dialogue_Montgomery_Pulse.png)
   
 
 📊 5. Data Sources — Credible Civic Anchors
@@ -284,3 +277,4 @@ Trust is not our output. It is our method.
 
 
 ________________
+
