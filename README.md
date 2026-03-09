@@ -177,14 +177,16 @@ ________________
   
 
   
-  
-  
+![High Confidence Mode](High Confidence Mode.png)
 
-  ![Partial Confidence Mode](prototype-screenshots/Partial Confidence Mode.png)
-![High Confidence Mode](prototype-screenshots/High Confidence Mode.png)
-![Productive Refusal Interface](prototype-screenshots/Productive Refusal Interface.png)
-![Code Snippet](prototype-screenshots/Code_Snippet_Montgomery_Pulse.png)
-![Gap Dashboard](prototype-screenshots/Gap_Dashboard_Montgomery_Pulse.png)
+![Partial Confidence Mode](Partial Confidence Mode.png)
+
+![Productive Refusal Interface](Productive Refusal Interface.png)
+
+![Code Snippet](Code_Snippet_Montgomery_Pulse.png)
+
+![Gap Dashboard](Gap_Dashboard_Montgomery_Pulse.png)  
+  
 
 
 ⚖️ 8. Ethical Reflection — Who Benefits & Who Is Forgotten
@@ -277,4 +279,5 @@ Trust is not our output. It is our method.
 
 
 ________________
+
 
